@@ -1,5 +1,4 @@
-# Project
-#Programming language
+# Programming language
 * Python
 * JavaScript
 * Go
